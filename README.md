@@ -3,7 +3,9 @@
 
 #### Laboratorio - Programación concurrente, condiciones de carrera, esquemas de sincronización, colecciones sincronizadas y concurrentes.
 
-Ejercicio inividual o en parejas.
+Ejercicio realizado por:
+- Francisco Marquez
+- Brayan Camilo Castiblanco
 
 ### Part I
 
